@@ -1,6 +1,10 @@
-# Current Resume, CV, and Other Documents
-## Emily K. Sanders
-### LinkedIn: https://www.linkedin.com/in/emilyksanders/
+# Current Employment Documents
+#### Emily K. Sanders | [LinkedIn](https://www.linkedin.com/in/emilyksanders/)
+
+---
+
+### Introduction
+
 
 Dear Recruiters,
 
@@ -8,10 +12,22 @@ My name is Emily K. Sanders, and I am currently looking for work in data science
 
 Please read on for a further discussion of my work and interests, or feel free to contact me via GitHub or LinkedIn to schedule a one-on-one conversation.
 
-Thank you,
+Thank you,  
 Emily K. Sanders
 
 ---
+
+### My Publications
+
+Sanders, E. K., & Chalk, H. M. (2016). Predictors of psychological outcomes in nonheterosexual individuals. Psi Chi Journal of Psychological Research, 21(2), 100-110. https://doi.org/10.24839/2164-8204.jn21.2.100 | [Link](https://web.archive.org/web/20240927215305/https://www.psichi.org/page/212JNSummer2016), [PDF](https://web.archive.org/web/20240927215042/https://cdn.ymaws.com/www.psichi.org/resource/resmgr/journal_2016/Summer16JNSanders.pdf)
+
+Dai, W., Yang, T., White, B. X., Palmer, R., Sanders, E. K., McDonald, J. A., Leung, M., & Albarracín, D. (2023). Priming behavior: A meta-analysis of the effects of behavioral and nonbehavioral primes on overt behavioral outcomes. Psychological Bulletin, 149(1-2), 67-98. https://doi.org/10.1037/bul0000374 |  [Link](https://psycnet.apa.org/doiLanding?doi=10.1037%2Fbul0000374)
+
+
+---
+
+### Detailed Cover Letter
+
 
 Dear Recruiters (again!),
 
@@ -27,7 +43,7 @@ After graduate school, I worked several rewarding jobs, but found that I still l
 
 Thank you for taking the time to review my materials.  I am sure I could be a valuable addition to your team, and look forward to further discussing my background and qualifications soon.  I can be reached on GitHub or LinkedIn at your convenience.
 
-Sincerely,
+Sincerely,  
 Emily K. Sanders
 
  
